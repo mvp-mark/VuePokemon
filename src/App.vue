@@ -1,6 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="flex justify-center">
+    <!--<img alt="Vue logo" src="./assets/logo.png" /> -->
+    <div class="flex justify-center"></div>
+    <HelloWorld msg="Os 151 Pokémon's" />
+  </div>
 </template>
 
 <script>
